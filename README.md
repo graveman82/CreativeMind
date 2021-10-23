@@ -1,4 +1,7 @@
 ![CreativeMind](doc/pic/CreativeMindLogo.png)
+# CreativeMind
+<br/>
+
 3D Game engine based on Dead Justice source code
 <br/>
 <br/>
